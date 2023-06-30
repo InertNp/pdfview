@@ -55,9 +55,7 @@ export function MyDocumentNepali() {
             textAlign: "center",
           }}
         >
-          <Text>
-            ..........................................................
-          </Text>
+          <Text>........................................................</Text>
         </View>
         <View
           style={{
